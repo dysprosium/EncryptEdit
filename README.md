@@ -1,5 +1,6 @@
 # EncryptEdit
 ##### Automatically encrypting text editor
+###### Created by Christopher Liu
 
 EncryptEdit allows seamless encrypted text-editing, with encryption on each save and decryption upon loading any file. Use it for writing sensitive data without the hassle of a separate encryption process, for writing insensitive data without the hassle of a separate, for making insensitive data appear to be sensitive, for instilling respect and fear among your peers, for instilling empathy among your peers for your sensitive data, or just to look cool. EncryptEdit does it all!
 
