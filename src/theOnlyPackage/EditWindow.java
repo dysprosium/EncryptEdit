@@ -64,7 +64,7 @@ public class EditWindow extends JFrame {
 		panel.setBackground(new Color(72, 0, 102));
 		contentPane.add(panel, BorderLayout.NORTH);
 		
-		JButton btnSavedesu = new JButton("Savedesu");
+		JButton btnSavedesu = new JButton("Save");
 		btnSavedesu.setBackground(new Color(0, 0, 0));
 		btnSavedesu.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
@@ -78,7 +78,7 @@ public class EditWindow extends JFrame {
 		});
 		panel.add(btnSavedesu);
 		
-		JButton btnLoaddesu = new JButton("Loaddesu");
+		JButton btnLoaddesu = new JButton("Load");
 		btnLoaddesu.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				JFileChooser loader = new JFileChooser();
